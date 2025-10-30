@@ -1,19 +1,19 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+travel:
+  label: Travel
+  permalink: /travel
+  description: Travel tag description
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+achievements:
+  label: Achievements
+  permalink: /achievements
+  description: Achievements tag description
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+projects:
+  label: Projects
+  permalink: /projects
+  description: Projects tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+events:
+  label: Events
+  permalink: /events
+  description: Events tag description
