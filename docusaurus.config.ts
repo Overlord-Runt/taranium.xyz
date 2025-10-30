@@ -73,7 +73,7 @@ const config: Config = {
       title: 'Taranium Zone',
       logo: {
         alt: 'Taranium Zone Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
