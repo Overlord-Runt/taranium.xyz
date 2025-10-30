@@ -119,19 +119,19 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Cool People',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Anicetus',
+              href: 'https://anicetus.dev',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Alex Ren',
+              href: 'https://alexren.me/',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'TensorCalculus',
+              href: 'https://astrophysics108.github.io/delana/',
             },
           ],
         },
