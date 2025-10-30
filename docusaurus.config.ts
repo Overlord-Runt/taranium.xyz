@@ -103,8 +103,12 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'About Me',
+              to: '/docs/aboutme/intro',
+            },
+            {
+              label: 'Projects',
+              to: '/docs/projects/intro',
             },
           ],
         },
@@ -139,7 +143,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Made with ❤️ by Taran. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
