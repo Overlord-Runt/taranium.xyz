@@ -88,6 +88,12 @@ const config: Config = {
           position: 'left',
           label: 'Projects',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'eventSidebar',
+          position: 'left',
+          label: 'Events',
+        },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/Overlord-Runt',
