@@ -80,7 +80,13 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'About Me',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'projectSidebar',
+          position: 'left',
+          label: 'Projects',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
